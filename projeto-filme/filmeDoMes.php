@@ -11,7 +11,7 @@
 
     <?php include('header.php') ?>
     <section class="filme-do-mes center">
-        <h1> Titulo do filme </h1>
+        <h1 class="titulo-melhor-filme"> Titulo do filme </h1>
         <div class="linha1-filme-mes">
 
             <figure class="figura1-filme">
@@ -36,7 +36,7 @@
 
             </div>
             <figure class="figura2-filme">
-
+                filme de fundo
             </figure>
             <div class="conclusao-filme">
 

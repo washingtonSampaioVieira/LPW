@@ -478,16 +478,16 @@ a:enabled{
 }
 
 .promocao-do-mes{
-        width: 1400px;
-        height: 300px;
-        background-color: white;
-        border-radius: 3px;
-        border-left: 1px solid  rgb(25, 25, 25);
-        border-bottom: 1px solid rgb(25, 25, 25);
-        margin-top: 20px;
-        margin-bottom: 10px;
-        padding: 10px;
-        box-sizing: border-box;
+    width: 1400px;
+    height: 300px;
+    background-color: white;
+    border-radius: 3px;
+    border-left: 1px solid  rgb(25, 25, 25);
+    border-bottom: 1px solid rgb(25, 25, 25);
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-sizing: border-box;
 }
 .titulo-promocao{
     width: 100%;
@@ -569,8 +569,7 @@ a:enabled{
 
 .filme-do-mes{
     width: 1400px;
-    height: 1000px;
-    background-color: black;
+    height: 2000px;
 }
 .linha1-filme-mes h1{
     margin: 0;
@@ -579,7 +578,7 @@ a:enabled{
 .linha1-filme-mes{
     width: 1400px;
     height: 600px;
-    background-color: aquamarine;
+    background-color: black;
 }
 .figura1-filme{
     width: 500px;
@@ -606,9 +605,45 @@ a:enabled{
 .info-mais-filme{
     width: 700px;
     height: 250px;
-    background-color: black;
+    background-color: lawngreen;
     margin-top: 100px;
 }
+
+.linha2-filme-mes{
+    width: 1400px;
+    height: 1350px;
+    background-color: rebeccapurple;
+    margin-top: 10px; 
+}
+
+.historia-filme{
+    width: 1400px;
+    height: 300px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: red;
+}
+.figura2-filme{
+    width: 1400px;
+    height: 600px;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-left: 0px;
+    margin-top: 0px;    
+
+    /* aqui colocar a imagem no fundo para dar senssação de que ela esta fixa */
+    background-image: url(../img/como_treinar_seu_dragao_3_2.jpg)
+    /* background-image: url(../img/como_treinar_seu_dragao_3_2.jpg) ; */
+
+}
+.conclusao-filme{
+    width: 1400px;
+    height: 400px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: red;
+}
+
 
 
 
